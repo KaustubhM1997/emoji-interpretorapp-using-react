@@ -1,0 +1,32 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 4rem;
+  }
+  
+  h3 {
+    font-size: 2rem;
+    padding: 1rem;
+  }
+  
+  h2 {
+    font-size: 3rem;
+  }
+  
+  input {
+    padding: 1.5rem;
+    width: 80%;
+  }
+  
+  body {
+    background-color: #bfdbfe;
+  }
+  
+  input {
+    border-radius: 0.5rem;
+    outline: none;
+  }
+  
