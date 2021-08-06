@@ -1,4 +1,4 @@
-# Interpreting Sport Emojis
+# Emoji Interpreter
 I'm sure most of us struggle with understanding emojis on the Internet. If you're also one of those people then ere's a React App that woould help you interpret those emojis easily so that you can use them in your day-to-day online conversations. 
 
 ### How does the app work?
